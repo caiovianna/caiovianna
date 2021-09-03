@@ -18,7 +18,7 @@
 <div> 
   <a href="https://www.instagram.com/vianna.caio21/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:caiovianna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-vianna-443923142/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" https://github.com/caiovianna></a> 
+  <a href="https://www.linkedin.com/in/caio-vianna-443923142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" https://github.com/caiovianna></a> 
  
   ![Snake animation](https://github.com/caiovianna/caiovianna/blob/output/github-contribution-grid-snake.svg)
  
